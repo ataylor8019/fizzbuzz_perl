@@ -36,7 +36,7 @@ foreach (1..100) {
 
     
         # If a number is a factor of 3 and 5, the execution will fall 
-        # through both of the if statements starting at line 28. As no end
+        # through both of the if statements starting at line 29. As no end
         # of line character ("\n") is printed in either if statement, and
         # because the test for being a factor of 3 is always done before the
         # test for being a factor of 5, the resulting output is "fizzbuzz".
